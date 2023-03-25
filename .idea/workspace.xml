@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c33f9590-f087-4dbb-a29e-d6d1a5ea8b52" name="Changes" comment="SystechData" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_CHECK_STRATEGY" value="Never" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kew3TNxFukgENtIMQ7F5m3zMuz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/TesteSistechData/SystechDataFinal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\TesteSistechData\SystechDataTeste\src\img" />
+      <recent name="D:\Java\TesteSistechData\SystechDataTeste\src\br\com\systechdata\app\form" />
+      <recent name="D:\Java\TesteSistechData\SystechDataTeste\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\TesteSistechData\SystechDataTeste\src\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SystechDataFinal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c33f9590-f087-4dbb-a29e-d6d1a5ea8b52" name="Changes" comment="" />
+      <created>1674348158426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674348158426</updated>
+      <workItem from="1674348159525" duration="8968000" />
+      <workItem from="1674395899513" duration="31199000" />
+      <workItem from="1674441201874" duration="16000" />
+      <workItem from="1674472616540" duration="3585000" />
+      <workItem from="1674495044688" duration="5434000" />
+      <workItem from="1674501579108" duration="936000" />
+      <workItem from="1674502527925" duration="49000" />
+      <workItem from="1674560760805" duration="1021000" />
+      <workItem from="1674567495190" duration="4178000" />
+      <workItem from="1674580906750" duration="11548000" />
+      <workItem from="1674648283760" duration="7755000" />
+      <workItem from="1674656205912" duration="964000" />
+      <workItem from="1674657285186" duration="80000" />
+      <workItem from="1674821779442" duration="9594000" />
+      <workItem from="1674843152532" duration="6836000" />
+      <workItem from="1675016204161" duration="12564000" />
+      <workItem from="1675105615982" duration="8280000" />
+      <workItem from="1675192556652" duration="9731000" />
+      <workItem from="1675214015468" duration="8695000" />
+      <workItem from="1675255765293" duration="21236000" />
+      <workItem from="1675282961886" duration="9704000" />
+      <workItem from="1675463985617" duration="1615000" />
+      <workItem from="1675717638080" duration="3943000" />
+      <workItem from="1675733831890" duration="714000" />
+      <workItem from="1675734638063" duration="609000" />
+      <workItem from="1675796501599" duration="1529000" />
+      <workItem from="1675895023596" duration="1070000" />
+      <workItem from="1679782119736" duration="773000" />
+      <workItem from="1679782951215" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="bc06e89f-22a4-470d-acf4-ad459df7961b">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SystechData" />
+    <option name="LAST_COMMIT_MESSAGE" value="SystechData" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
